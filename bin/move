@@ -1,3 +1,4 @@
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe!"
 puts "Where would you like to go?"
+index = get.strip
